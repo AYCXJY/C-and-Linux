@@ -138,7 +138,7 @@ int fits_bits(int x, int n)
 }
 
 int main(int argc, char* argv[]) {
-    printf("%d\n", fits_bits(0x12, 4)); 
+    printf("HELLO\n"); 
     return 0;
 }
 
